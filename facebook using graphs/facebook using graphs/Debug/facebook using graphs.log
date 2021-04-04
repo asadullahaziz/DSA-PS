@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\DSA\facebook using graphs\facebook using graphs\Source.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\DSA\facebook using graphs\facebook using graphs\facebook.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  facebook.cpp
+D:\DSA\facebook using graphs\facebook using graphs\facebook.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  facebook using graphs.vcxproj -> D:\DSA\facebook using graphs\Debug\facebook using graphs.exe

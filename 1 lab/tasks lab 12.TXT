@@ -1,0 +1,9 @@
+Implement Graph using Linked list.
+
+-> add vertics
+-> add edge
+-> remove vertics
+-> remove edge
+-> indegree
+-> outdegree
+-> display

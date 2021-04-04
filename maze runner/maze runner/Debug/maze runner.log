@@ -1,0 +1,6 @@
+﻿  Maze.cpp
+  Node.cpp
+  Source.cpp
+  Generating Code...
+D:\DSA\maze runner\maze runner\stack.h(50): warning C4715: 'Stack<Node<int> *>::pop': not all control paths return a value
+  maze runner.vcxproj -> D:\DSA\maze runner\Debug\maze runner.exe

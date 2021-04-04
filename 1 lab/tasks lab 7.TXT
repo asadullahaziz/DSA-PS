@@ -1,0 +1,9 @@
+to be implimented on last lab LSLL program
+
+-> remove after()
+-> remove before()
+-> swap(m,n) // swap m and n;
+-> sublist(m,n) // display all the nodes inbetween and including m and n
+-> destruct() // deletes all the link list
+-> recusive display() // display the whole link list using recusive function
+-> deleteAHernatives() // aik chor ka aik node delete karna ha link list main sa

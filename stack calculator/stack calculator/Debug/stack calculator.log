@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\DSA\stack calculator\stack calculator\Source.cpp(49): warning C4715: 'Stack::pop': not all control paths return a value
+D:\DSA\stack calculator\stack calculator\Source.cpp(62): warning C4715: 'Stack::top': not all control paths return a value
+  stack calculator.vcxproj -> D:\DSA\stack calculator\Debug\stack calculator.exe

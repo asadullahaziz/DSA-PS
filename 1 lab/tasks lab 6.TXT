@@ -1,0 +1,9 @@
+-> Node
+-> LSLL
+	->inseart at head()
+	->inseart at tail()
+	->remove at head()
+	->remove at tail()
+	->display()
+	->inseart after()
+	->inseart before()

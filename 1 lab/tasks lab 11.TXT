@@ -1,0 +1,3 @@
+tasks:-
+-> create a maze game using linked list (node).
+-> write algo to find path.

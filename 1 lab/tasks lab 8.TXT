@@ -1,0 +1,10 @@
+Impliment following in Linear Double Link List (LDLL) :-
+
+-> inseart at head
+-> inseart at tail
+-> remove at head
+-> remove at tail
+-> inseart after
+-> inseart before
+-> remove after
+-> remove before
